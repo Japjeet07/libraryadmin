@@ -16,6 +16,7 @@
     "joi-password-complexity": "^5.1.0",
     "jsonwebtoken": "^9.0.0",
     "react-redux": "^8.0.5",
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+    "cors": "^2.8.5"
   }
 }
