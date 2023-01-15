@@ -17,6 +17,7 @@
     "jsonwebtoken": "^9.0.0",
     "react-redux": "^8.0.5",
     "dotenv": "^8.2.0",
-    "cors": "^2.8.5"
+    "cors": "^2.8.5",
+    "mongoose": "^6.7.5"
   }
 }
