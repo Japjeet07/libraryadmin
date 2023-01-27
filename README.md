@@ -1,10 +1,10 @@
 # Description
 
-This mern full stack application is a replica of an access of library admin that gives you the ability to customize your library page also giving you features such a adding new book and customizing the current one also giving you the ability to delete the book. This whole process works hand in hand with the changes in the database.
+This MERN Full-Stack application is a replica of an access of library admin that gives you the ability to customize your library page also giving you features such a adding new book and customizing the current one also giving you the ability to delete the book. This whole process works hand in hand with the changes in the database.
 
 This application also uses a unique signup/login feature with JOI token and encryption of password in the database files giving the user full security
 
-# deployed link
+# Deployed link
 
 https://mern-lib-frontend.onrender.com/
 
