@@ -1,3 +1,21 @@
+# Description
+
+This mern full stack application is a replica of an access of library admin that gives you the ability to customize your library page also giving you features such a adding new book and customizing the current one also giving you the ability to delete the book. This whole process works hand in hand with the changes in the database.
+
+This application also uses a unique signup/login feature with JOI token and encryption of password in the database files giving the user full security
+
+# deployed link
+
+https://mern-lib-frontend.onrender.com/
+
+# Screenshots
+
+![Screenshot from 2023-01-27 22-04-27](https://user-images.githubuserco![Screenshot from 2023-01-27 22-04-11](https://user-images.githubusercontent.com/84196130/215141680-1da5cdf0-bf07-43d6-a79f-98e388ba3ef1.png)
+ntent.com/84196130/215141629-68ee5130-f78f-41f7-a991-6ed23daca527.png)
+![Screenshot from 2023-01-27 22-04-24](https://u![Screenshot from 2023-01-27 22-04-16](https://user-images.githubusercontent.com/84196130/215141659-281ae2e5-4e5d-49a4-a45f-3e64a60245b0.png)
+ser-images.githubusercontent.com/84196130/215141643-19b739f8-6063-43cb-86b2-6d8f870585f7.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
